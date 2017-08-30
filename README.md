@@ -14,7 +14,7 @@ Desenvolvimento Web permanece em constante evolução desde suas primeiras pági
 
 O WordPress foi concebido com um CMS (Sistema de gerenciamento de conteúdo) principalmente voltado para blogs e foi evoluindo com funcionalidades que o tornaram tão utilizado atualmente.
 
-Tanto sua linha comercial como livremente distribuível para auto hospedagem é administrada pela empresa Automatic.
+Tanto sua linha comercial como a livremente distribuível para auto hospedagem é administrada pela empresa Automatic.
 
 ## Atualmente
 
