@@ -28,7 +28,7 @@ São também oferecidos acessos restritos aos clientes para download de arquivos
 
 Essas são generalizações de funcionalidades solicitadas por clientes, e tem deixado de ser regra para ser exceção. Com o devido conhecimento passou a ser um motivo a mais para adotar o WordPress como plataforma. Tanto devido às opções que já se encontram prontas quanto seu ambiente extensível.
 
-## Vatagens
+## Vantagens
 
 Inúmeras vantagens levam a escolha massiva deste entre tantos outros CMS.
 
